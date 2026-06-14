@@ -1,0 +1,22 @@
+[
+  {
+    "id": "m_001",
+    "name": "Menu Découverte",
+    "description": "Harira + Tajine agneau + Thé à la menthe. Un voyage des sens.",
+    "price": 23.90,
+    "image": "https://images.unsplash.com/photo-1535473895227-bdecb20fb157?w=600&q=80",
+    "products": ["p_006", "p_002", "p_004"],
+    "available": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "m_002",
+    "name": "Menu Royal Complet",
+    "description": "Pastilla + Couscous Royal solo + Cornes de Gazelle 3 pièces. La totale.",
+    "price": 28.50,
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600&q=80",
+    "products": ["p_003", "p_001", "p_005"],
+    "available": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]
