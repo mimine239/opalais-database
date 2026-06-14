@@ -34,5 +34,17 @@
     "passwordHash": "0f632c70f53a9466af2b2218ed78b3479825da66313b60f7cff33b2e1e3025d2",
     "phone": "0752067955",
     "address": "rere"
+  },
+  {
+    "id": "u_1781454936396_tpezc",
+    "createdAt": "2026-06-14T16:35:36.396Z",
+    "isBanned": false,
+    "role": "client",
+    "firstName": "zer",
+    "lastName": "er",
+    "email": "zer@gmail.com",
+    "passwordHash": "bda26e4859d31d28ad1ddbf3b4c67691c5eaa93b989cbc06e493d55f7143159c",
+    "phone": "12345678",
+    "address": "rer"
   }
 ]
