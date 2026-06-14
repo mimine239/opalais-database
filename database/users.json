@@ -1,0 +1,26 @@
+[
+  {
+    "id": "u_admin_001",
+    "firstName": "Admin",
+    "lastName": "O Palais",
+    "email": "admin@opalais.fr",
+    "passwordHash": "",
+    "role": "admin",
+    "phone": "+33 4 79 00 00 00",
+    "address": "10 rue du Palais, Belley 01300",
+    "isBanned": false,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "u_driver_001",
+    "firstName": "Mohamed",
+    "lastName": "Livreur",
+    "email": "livreur@opalais.fr",
+    "passwordHash": "",
+    "role": "driver",
+    "phone": "+33 6 00 00 00 01",
+    "address": "Belley 01300",
+    "isBanned": false,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]

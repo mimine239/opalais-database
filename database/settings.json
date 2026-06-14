@@ -1,0 +1,13 @@
+{
+  "restaurantName": "O PALAIS",
+  "slogan": "Saveurs authentiques du Maghreb à Belley",
+  "address": "10 rue du Palais, Belley 01300, France",
+  "phone": "+33 4 79 00 00 00",
+  "email": "contact@opalais.fr",
+  "heroImage": "",
+  "deliveryFee": 2.50,
+  "minOrder": 12.00,
+  "prepTime": 20,
+  "isOpen": true,
+  "updatedAt": "2024-01-01T00:00:00.000Z"
+}

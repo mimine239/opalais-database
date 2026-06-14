@@ -1,0 +1,78 @@
+[
+  {
+    "id": "p_001",
+    "name": "Couscous Royal",
+    "description": "Semoule fine, légumes mijotés, merguez, poulet rôti et agneau. La tradition à votre table.",
+    "category": "cat_001",
+    "image": "https://images.unsplash.com/photo-1624300629298-e9de39c13be5?w=600&q=80",
+    "basePrice": null,
+    "available": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "sizes": [
+      { "label": "Solo", "price": 14.90 },
+      { "label": "Duo", "price": 26.00 },
+      { "label": "Famille", "price": 45.00 }
+    ]
+  },
+  {
+    "id": "p_002",
+    "name": "Tajine Agneau Pruneaux",
+    "description": "Épaule d'agneau confite aux pruneaux, amandes grillées et épices douces du Maghreb.",
+    "category": "cat_001",
+    "image": "https://images.unsplash.com/photo-1585325701165-46b891e65b8b?w=600&q=80",
+    "basePrice": 16.90,
+    "available": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "sizes": []
+  },
+  {
+    "id": "p_003",
+    "name": "Pastilla au Poulet",
+    "description": "Feuilleté croustillant farci au poulet, amandes, œufs et épices, saupoudré de sucre glace.",
+    "category": "cat_002",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=600&q=80",
+    "basePrice": 8.50,
+    "available": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "sizes": []
+  },
+  {
+    "id": "p_004",
+    "name": "Thé à la Menthe",
+    "description": "Thé vert Gunpowder, menthe fraîche, sucre au choix. Servi en théière.",
+    "category": "cat_003",
+    "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=600&q=80",
+    "basePrice": null,
+    "available": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "sizes": [
+      { "label": "25cl", "price": 3.00 },
+      { "label": "50cl", "price": 5.00 }
+    ]
+  },
+  {
+    "id": "p_005",
+    "name": "Cornes de Gazelle",
+    "description": "Pâtisserie fine à la pâte d'amande parfumée à l'eau de fleur d'oranger.",
+    "category": "cat_004",
+    "image": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=600&q=80",
+    "basePrice": null,
+    "available": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "sizes": [
+      { "label": "3 pièces", "price": 4.50 },
+      { "label": "6 pièces", "price": 8.00 }
+    ]
+  },
+  {
+    "id": "p_006",
+    "name": "Harira",
+    "description": "Soupe traditionnelle marocaine à la tomate, lentilles, pois chiches et coriandre.",
+    "category": "cat_002",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=600&q=80",
+    "basePrice": 5.50,
+    "available": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "sizes": []
+  }
+]

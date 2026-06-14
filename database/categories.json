@@ -1,0 +1,6 @@
+[
+  { "id": "cat_001", "name": "Plats chauds", "icon": "🍲", "description": "Nos tajines, couscous et plats mijotés", "image": "", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "cat_002", "name": "Entrées", "icon": "🥗", "description": "Soupes, salades et mezze", "image": "", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "cat_003", "name": "Boissons", "icon": "🍵", "description": "Thés, jus et boissons fraîches", "image": "", "createdAt": "2024-01-01T00:00:00.000Z" },
+  { "id": "cat_004", "name": "Pâtisseries", "icon": "🍮", "description": "Douceurs orientales maison", "image": "", "createdAt": "2024-01-01T00:00:00.000Z" }
+]
