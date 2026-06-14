@@ -22,5 +22,17 @@
     "address": "Belley 01300",
     "isBanned": false,
     "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "u_1781454805053_0f8mo",
+    "createdAt": "2026-06-14T16:33:25.053Z",
+    "isBanned": false,
+    "role": "client",
+    "firstName": "amine",
+    "lastName": "mouali",
+    "email": "amlikilou@gmail.com",
+    "passwordHash": "0f632c70f53a9466af2b2218ed78b3479825da66313b60f7cff33b2e1e3025d2",
+    "phone": "0752067955",
+    "address": "rere"
   }
 ]
